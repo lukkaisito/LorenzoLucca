@@ -1,1 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentacion</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+    <div class="main-wrapper">
+        <nav class="top-nav">
+            <span class="logo">Presentacion?</span>
+            <input type="text" placeholder="Buscar amigos...">
+        </nav>
+
+        <div class="container">
+            <header>
+                <h1>Lucca Lorenzo</h1>
+            </header>
+
+            <marquee scrollamount="5" class="scrolling-text">
+                ++ mood: bored ++ listening to: Junkhead - Alice in Chains ++ dont feel guilty, master writing ++ gran cantidad de esta pagina esta hecha de forma ironica ++
+            </marquee>
+
+            <div class="profile-layout">
+                <aside class="left-col">
+                    <div class="content-box">
+                        <h2 class="box-title">Mi Foto</h2>
+                        <div class="box-body">
+                            <img src="https://fotografias.lasexta.com/clipping/cmsimages01/2014/04/03/F8675C55-EBE4-46D5-9BA3-C631ACC16726/104.jpg?crop=1200,1200,x200,y0&width=1200&heigh>
+                            alt="Profile" class="profile-img">
+                            <p class="status-text">"I'd rather be hated for who I am than loved for who I am not"</p>
+                        </div>
+                      </div>
+
+                    <div class="content-box">
+                        <h2 class="box-title">Contacto</h2>
+                        <div class="box-body contact-links">
+                            <button onclick="alertMessage()">Enviar Mensaje</button>
+                            <button onclick="addFriend()">Añadir a Amigos</button>
+                        </div>
+                    </div>
+                </aside>
+
+                <main class="right-col">
+                    <div class="content-box">
+                        <h2 class="box-title">Sobre Mí</h2>
+                        <div class="box-body">
+                            <p>Estudiante de informatica, programacion, mecanica cuantica y fisica; Musico; Interprete de ingles.</p>
+                            <p class="blink">Fullstack Developer</p>
+                        </div>
+                    </div>
+
+                    <div class="content-box">
+                        <h2 class="box-title">Mis Favoritos</h2>
+                        <div class="box-body">
+                            <ul class="fav-list">
+                                <li><strong>Bandas:</strong> Nirvana, Alice in Chains, Sevendust, Radiohead, Stone Temple Pilots, etc.</li>
+                                <li><strong>Libros:</strong> I have no mouth and I must scream, Patrick Suskinds Perfume, La Metamorfosis.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="content-box">
+                      <h2 class="box-title">Top Amigos</h2>
+                        <div class="box-body top-friends">
+                            <div class="friend">
+                                <span>Eddie</span>
+                                <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUTExIVFRUXFxUYFxYXFRUXGBgYFxgXFxgYFxcYHSggGBolHRcVITEhJSkrLi4uFx8zODMtNygtLisBC>
+                            </div>
+                            <div class="friend">
+                                <span>Scott</span>
+                                <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExIVFhUXFxcXFRcVFRcWFxcXGRYXFxUVFxcYHSggGB0lHRcVITEhJSkrLi4uFx8zODMtNygtLisBC>
+                            </div>
+                            <div class="friend">
+                                <span>Layne</span>
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRFmnJF6zbkx-gklsPmQElubTSjFj7wu2W7w&s">
+                            </div>
+                            <div class="friend">
+                                <span>Chris</span>
+                                <img src="https://media.newyorker.com/photos/591de8bcf6c2ab7641a6e6aa/master/w_2560%2Cc_limit/Petrusich-Chris-Cornell.jpg">
+                            </div>
+                        </div>
+                    </div>
+                </main>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
