@@ -1,11 +1,11 @@
 function alertMessage() {
-    alert("¡Error 404! Revento el servidor de ecom.");
+    alert("¡Error 404! No quiero hablar con nadie.");
 }
 
 function addFriend() {
     const confirmacion = confirm("¿Seguro que quieres ser mi amigo? No soy muy sociable...");
     if (confirmacion) {
-        alert("Peticion enviada. Espera 3 a 5 días hábiles (o años).");
+        alert("Peticion enviada. Probablemente no sea aceptada.");
     }
 }
 
