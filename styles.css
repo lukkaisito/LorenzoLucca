@@ -175,3 +175,37 @@ button:hover {
 .fav-list li {
     margin-bottom: 10px;
 }
+
+@media (max-width: 768px) {
+  
+    .main-wrapper {
+        padding: 10px;
+    }
+
+ 
+    .profile-layout {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+
+   
+    .left-col {
+        width: 100%;
+    }
+
+  
+    header h1 {
+        font-size: 1.8em;
+    }
+
+  
+    .profile-img {
+        max-width: 200px;
+    }
+
+ 
+    button {
+        padding: 10px;
+        font-size: 1em;
+    }
+}
