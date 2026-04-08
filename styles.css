@@ -158,3 +158,22 @@ button:hover {
     filter: grayscale(0%) contrast(100%);
     border-color: var(--accent-red);
 }
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(-360deg); }
+}
+
+.profile-img {
+    border-radius: 50%; 
+    aspect-ratio: 1 / 1; 
+    object-fit: cover;   
+    animation: spin 7s infinite linear; 
+    
+
+    filter: grayscale(100%) contrast(120%); 
+}
+
+.profile-img:hover {
+    animation-play-state: paused;
+}
