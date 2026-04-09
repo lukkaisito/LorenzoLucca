@@ -37,7 +37,7 @@
                     <div class="content-box">
                         <h2 class="box-title">Contacto</h2>
                         <div class="box-body contact-links">
-                            <button onclick="alertMessage()">Enviar Mensaje</button>
+                            <button onclick="openModal()">Enviar Mensaje</button>
                             <button onclick="addFriend()">Añadir a Amigos</button>
                             
                             <a href="https://github.com/lukkaisito" target="_blank">
@@ -92,7 +92,27 @@
             </div>
         </div>
     </div>
+<div id="messageModal" class="modal-overlay">
+        <div class="content-box modal-content">
+            <span class="close-btn" onclick="closeModal()">&times;</span>
+            <h2 class="box-title">Enviar Mensaje a Lucca</h2>
+            <div class="box-body">
+                <form id="n8nForm">
+                    <label for="senderName">Nombre:</label>
+                    <input type="text" id="senderName" required>
 
+                    <label for="senderEmail">Correo:</label>
+                    <input type="email" id="senderEmail" required>
+
+                    <label for="messageText">Mensaje:</label>
+                    <textarea id="messageText" rows="4" required></textarea>
+
+                    <button type="submit" class="send-btn">Enviar a n8n</button>
+                </form>
+                <p id="formStatus" style="display: none; margin-top: 10px; font-weight: bold;"></p>
+            </div>
+        </div>
+    </div>
     <script src="script.js"></script>
 </body>
 </html>
