@@ -5,6 +5,7 @@ function alertMessage() {
         "Otro dia",
         "No quiero hablar con nadie",
         "Brochacho"
+        "Nigga no"
     ];
     
     // Elige una frase al azar de la lista
@@ -13,7 +14,7 @@ function alertMessage() {
     alert(randomFrase);
 }
 
-// Funciones para el Modal
+
 function openModal() {
     const modal = document.getElementById('messageModal');
     if (modal) {
@@ -29,7 +30,7 @@ function closeModal() {
     }
 }
 
-// Cerrar si clickean fuera del cuadro
+
 window.onclick = function(event) {
     const modal = document.getElementById('messageModal');
     if (event.target === modal) {
@@ -37,7 +38,7 @@ window.onclick = function(event) {
     }
 }
 
-// Lógica de n8n
+
 const n8nForm = document.getElementById('n8nForm');
 if (n8nForm) {
     n8nForm.addEventListener('submit', async function(e) {
@@ -58,7 +59,7 @@ if (n8nForm) {
         };
 
         // REEMPLAZÁ ESTA URL POR TU WEBHOOK REAL DE N8N
-        const N8N_WEBHOOK_URL = 'https://tu-instancia.n8n.cloud/webhook/tu-id'; 
+        const N8N_WEBHOOK_URL = 'https://lukkai7.app.n8n.cloud/workflow/A7zAazgSIsXxtN5l?projectId=ksNSojtYiyuR6K80&new=true'; 
 
         try {
             const response = await fetch(N8N_WEBHOOK_URL, {
