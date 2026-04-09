@@ -209,3 +209,61 @@ button:hover {
         font-size: 1em;
     }
 }
+
+/* --- ESTILOS DEL MODAL --- */
+.modal-overlay {
+    display: none; /* Oculto por defecto */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7); /* Fondo oscuro transparente */
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    position: relative;
+    width: 90%;
+    max-width: 400px;
+    /* Usa el background y borde que ya le diste a .content-box */
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 24px;
+    cursor: pointer;
+    color: #fff; /* Ajustá al color de tu texto */
+}
+
+.close-btn:hover {
+    color: red;
+}
+
+/* Formulario */
+#n8nForm label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#n8nForm input, 
+#n8nForm textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    box-sizing: border-box;
+    background-color: #111; /* Estilo oscuro */
+    color: #fff;
+    border: 1px solid #444;
+}
+
+.send-btn {
+    margin-top: 15px;
+    width: 100%;
+    cursor: pointer;
+}
