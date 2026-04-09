@@ -37,11 +37,6 @@ window.onclick = function(event) {
     }
 }
 
-// Función para el botón de Añadir Amigos (placeholder)
-function addFriend() {
-    alert("¡Solicitud enviada! (O algo así, esto es irónico como la página)");
-}
-
 // Lógica de n8n
 const n8nForm = document.getElementById('n8nForm');
 if (n8nForm) {
