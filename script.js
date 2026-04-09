@@ -45,7 +45,7 @@ document.getElementById('n8nForm').addEventListener('submit', async function(e) 
     };
 
     // PONE TU URL DE WEBHOOK DE N8N ACÁ
-    const N8N_WEBHOOK_URL = '// Funciones para abrir y cerrar el modal
+    const N8N_WEBHOOK_URL =  'https://lukkai7.app.n8n.cloud/workflow/A7zAazgSIsXxtN5l?projectId=ksNSojtYiyuR6K80&new=true'// Funciones para abrir y cerrar el modal
 function openModal() {
     document.getElementById('messageModal').style.display = 'flex';
 }
