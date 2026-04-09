@@ -4,7 +4,7 @@ function alertMessage() {
         "No",
         "Otro dia",
         "No quiero hablar con nadie",
-        "Brochacho"
+        "Brochacho",
         "Nigga no"
     ];
     
