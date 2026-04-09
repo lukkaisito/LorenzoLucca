@@ -58,7 +58,7 @@ if (n8nForm) {
         };
 
         // REEMPLAZÁ ESTA URL POR TU WEBHOOK REAL DE N8N
-        const N8N_WEBHOOK_URL = 'https://lukkai7.app.n8n.cloud/workflow/A7zAazgSIsXxtN5l?projectId=ksNSojtYiyuR6K80&new=true'; 
+        const N8N_WEBHOOK_URL = 'https://lukkai7.app.n8n.cloud/webhook/graciaskurtcobainportodo'; 
 
         try {
             const response = await fetch(N8N_WEBHOOK_URL, {
