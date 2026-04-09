@@ -4,8 +4,7 @@ function alertMessage() {
         "No",
         "Otro dia",
         "No quiero hablar con nadie",
-        "Brochacho",
-        "Nigga no"
+        "Brochacho"
     ];
     
     // Elige una frase al azar de la lista
