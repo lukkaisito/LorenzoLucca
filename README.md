@@ -45,7 +45,8 @@ El 9 de enero de 2007, Steve Jobs presentó el iPhone en el Macworld de San Fran
 Esta era marca el momento en que Apple deja de "vender" en su homepage y empieza a "exhibir". El diseño se pone al servicio de un solo objetivo: que el producto sea la estrella indiscutida, sin distracciones. Es la base directa de la Era 5 (2020-presente): el scroll cinematográfico y la tipografía San Francisco no serían posibles sin esta etapa previa de reducción radical de elementos. En comparación con la Era 2, donde todavía convivían varias secciones y pestañas con peso visual similar, acá se ve un salto claro hacia la jerarquía absoluta de un solo elemento por pantalla.
 
 ## Referencias
-- Wayback Machine, apple.com (2007, 2010, 2012) — buscar en https://web.archive.org/web/*/apple.com
+- Wayback Machine, apple.com (2007, 2010, 2012)
+- https://www.webdesignmuseum.org/gallery/apple-2012
 - Webflow Blog, "Homepage history: Apple.com"
 - History.com, "Steve Jobs debuts the iPhone"
 - CustomerThink, "Building an Online Presence: The 5 Ages of Apple.com"
