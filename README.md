@@ -1,153 +1,51 @@
-# Actividad: Viaje en el Tiempo
-### Era 1: La Era del Caos Creativo (1996-1999)
-
-**Resumen de la Página:**
-
-- **1996:** Página con solo texto "Under Construction". Diseño primitivo sin imágenes, propio de los inicios de la web.
-    
-- **1997:** Diseño con múltiples GIFs animados, bloques de texto y columnas. Navegación vertical y ausencia de jerarquía clara. La página intentaba abarcar todo el ecosistema de Apple sin un orden aparente.
-    
-- **1998:** Simplificación con el lanzamiento del iMac G3. Se reduce el número de elementos y aparece una navegación superior rudimentaria. El producto (iMac) comienza a ganar protagonismo.
-    
-
-**Contexto:** Apple estaba en una crisis financiera y de identidad. La web era un territorio inexplorado donde cada empresa experimentaba sin reglas claras. La página reflejaba el caos de una compañía que buscaba reinventarse.
-
----
-
-### Era 2: El Nacimiento del Orden (2000-2006)
-
-**Resumen de la Página:**
-
-- **2000:** Introducción de la barra de navegación superior con pestañas (Products, Store, Support, etc.). Aparece una estructura jerárquica clara.
-    
-- **2001:** Cambio del logo de Apple a la versión azul (la famosa "Aqua"). La navegación se consolida y aparece un banner principal para el producto estrella (iPod).
-    
-- **2004-2006:** Consolidación del estilo "banner" con el iMac G5. La página se vuelve más limpia, con fondos blancos y el producto en el centro. Aparecen los primeros atisbos del minimalismo.
-    
-
-**Contexto:** Apple se recupera con el iMac G3 y el iPod. La web comienza a madurar como canal de comunicación y ventas. La navegación fija se convierte en un estándar.
-
----
-
-### Era 3: La Era del Minimalismo (2007-2012)
-
-**Resumen de la Página:**
-
-- **2007:** Rediseño radical coincidiendo con el lanzamiento del iPhone. El producto ocupa el centro absoluto de la página. Fondos blancos o negros, tipografía fina y poco texto.
-    
-- **2008-2012:** El minimalismo se intensifica. El espacio en blanco se convierte en un elemento de diseño. Las páginas de producto (iPhone, MacBook Air) son casi como un póster en blanco con una imagen y una frase breve.
-    
-
-**Contexto:** Apple se convierte en la empresa más valiosa del mundo. El iPhone redefine la industria móvil. El diseño de la web se alinea con el diseño de los productos: simple, elegante y centrado en el usuario.
-
----
-
-### Era 4: La Revolución Plana (2013-2019)
-
-**Resumen de la Página:**
-
-- **2013:** iOS 7 introduce el "flat design". La web de Apple sigue la misma tendencia. Tipografía gruesa (Helvetica Neue), iconos vectoriales y colores más vibrantes.
-    
-- **2015-2019:** Evolución del flat design hacia un estilo más maduro. Desaparición de sombras y degradados, pero se mantiene la jerarquía y la legibilidad. La tipografía se vuelve más gruesa y los espacios más amplios.
-    
-
-**Contexto:** El flat design domina el mundo digital. Apple se adapta a las tendencias sin perder su identidad. La web se vuelve más accesible y rápida.
-
----
-
-### Era 5: La Era de la Consagración (2020-presente)
-
-**Resumen de la Página:**
-
-- **2020-presente:** Uso de la tipografía San Francisco (creada por Apple para su ecosistema). Jerarquías basadas en el peso y tamaño del texto, no en elementos decorativos. Paleta de colores depurada (blanco, negro y gris). El espacio en blanco se utiliza como elemento estructural. Cada sección de la página fluye como un scroll cinematográfico, con animaciones y transiciones suaves.
-    
-
-**Contexto:** Apple consolida su sistema de diseño. La web se convierte en una experiencia inmersiva que refleja la perfección y el control que la marca asocia a sus productos. La página no es solo un canal de ventas, sino una declaración de principios.
-
----
-
-## Instrucciones Técnicas
-
-1. **Fork del repositorio:**
-    
-    - Haz un fork del repositorio `analisis-apple-com` a tu cuenta de GitHub.
-        
-    - Clona tu fork en tu máquina local.
-        
-2. **Creación del archivo:**
-    
-    - Crea un nuevo archivo en la carpeta `/analisis` con el nombre `analisis-apple-[era].md`.
-        
-    - Copia la plantilla y complétala.
-        
-3. **Capturas de pantalla:**
-    
-    - Usa [Wayback Machine](https://archive.org/web/) para buscar `apple.com` en los años de tu era.
-        
-    - Guarda las capturas en la carpeta `/imagenes` con nombres descriptivos.
-        
-    - Enlázalas en el archivo Markdown usando rutas relativas.
-        
-4. **Commit y Push:**
-    
-    - Guarda los cambios y haz commit con un mensaje descriptivo.
-        
-    - Sube los cambios a tu fork.
-        
-5. **Pull Request:**
-    
-    - Desde tu fork, abre un Pull Request al repositorio original.
-        
-    - Incluye un breve resumen de tu análisis.
-
-```
-# Análisis de la Evolución de apple.com: [Nombre de tu era]
+# Análisis de la Evolución de apple.com: La Era del Minimalismo
 
 ## Integrantes del Grupo
-- [Nombre 1]
-- [Nombre 2]
-- [Nombre 3]
-- [Nombre 4]
-
+- [Lorenzo Lucca]
+- [Zalazar Maia]
+  
 ## Período Analizado
-[Ej: 1996-1999]
+2007-2012
 
 ## Capturas de Pantalla
 | Año | Captura | Descripción |
 |-----|---------|-------------|
-| 1996 | ![1996](../imagenes/era-caos-creativo-1996.png) | Página con solo texto "Under Construction" |
-| 1997 | ![1997](../imagenes/era-caos-creativo-1997.png) | Diseño con múltiples GIFs y columnas |
-| 1998 | ![1998](../imagenes/era-caos-creativo-1998.png) | Simplificación con el iMac G3 |
+| 2007 | ![2007](https://www.webdesignmuseum.org/uploaded/timeline/apple/apple-2007.jpg) | Rediseño coincidiendo con el lanzamiento del iPhone, fondo oscuro y protagonismo absoluto del producto |
+| 2010 | ![2010](https://www.webdesignmuseum.org/uploaded/fullscreen-others/2010/apple-2010-05.jpg) | Lanzamiento del iPad, la navegación queda relegada detrás de una imagen promocional |
+| 2012 | ![2012](https://www.webdesignmuseum.org/uploaded/timeline/apple/apple-2012.png) | Consolidación del "póster digital": una imagen, una frase, mínimo texto |
+
+
 
 ## Contexto Histórico
-> *"Describe brevemente qué estaba pasando en Apple y en el mundo del diseño web durante esta era. ¿Qué productos lanzaron? ¿Qué tendencias de diseño dominaban?"*
+El 9 de enero de 2007, Steve Jobs presentó el iPhone en el Macworld de San Francisco, describiéndolo como un producto revolucionario. La campaña de lanzamiento fue notablemente austera para la época: sin celebridades, sin chistes ni fuegos artificiales, apenas el producto explicado por sí mismo, algo que en su momento resultaba innovador y hoy se volvió el estándar de cómo Apple comunica sus productos. Ese mismo criterio se trasladó a la web: el sitio adoptó un fondo oscuro que ponía todo el foco en el dispositivo, y la época también trajo el auge del diseño skeumórfico, con íconos que imitaban texturas y objetos reales para hacer más intuitiva la interfaz. Para 2010, con el lanzamiento del iPad, ese lenguaje visual ya estaba asentado: el patrón de dejar que el producto nuevo domine por completo la portada se repitió, empujando todo lo demás salvo el video promocional detrás de las pestañas de navegación.
 
 ## Análisis de Principios de Diseño
 
 ### 1. Jerarquía Visual
-- **¿Qué elemento captaba primero la atención?** [Respuesta]
-- **¿Cómo se organizaba la información?** [Respuesta]
-- **¿Qué competía por la atención del usuario?** [Respuesta]
+- **¿Qué elemento captaba primero la atención?** El producto en sí: una fotografía a pantalla completa (o casi) del iPhone, el iPod touch o el iPad, sin elementos que compitieran con esa imagen.
+- **¿Cómo se organizaba la información?** De forma vertical y descendente: primero el "héroe" del momento, después una fila reducida de otros productos o novedades en bloques pequeños e iguales entre sí.
+- **¿Qué competía por la atención del usuario?** Prácticamente nada. A diferencia de eras anteriores, no había banners múltiples ni bloques de texto compitiendo; la navegación superior se volvió discreta y funcional.
 
 ### 2. Minimalismo y Espacio en Blanco
-- **¿Se usaba espacio en blanco de forma intencionada?** [Respuesta]
-- **¿Qué sensación transmitía el diseño?** [Respuesta]
+- **¿Se usaba espacio en blanco de forma intencionada?** Sí, de manera muy deliberada. El espacio vacío (o negro, en el caso del lanzamiento del iPhone) se convirtió en un elemento de diseño con tanto peso como la imagen del producto.
+- **¿Qué sensación transmitía el diseño?** Sofisticación, calma y exclusividad. La página se sentía menos como un catálogo de ventas y más como la vidriera de una tienda de lujo.
 
 ### 3. Tipografía
-- **¿Qué fuentes se usaban?** [Respuesta]
-- **¿Cómo se manejaban los tamaños y pesos?** [Respuesta]
+- **¿Qué fuentes se usaban?** Tipografías finas tipo Helvetica/Myriad, con muy poco volumen de texto en pantalla.
+- **¿Cómo se manejaban los tamaños y pesos?** Frases cortas y grandes (a menudo una sola línea, tipo eslogan) contrastando con espacios en blanco generosos; casi no había párrafos largos en la portada.
 
 ### 4. Consistencia de Marca
-- **¿Cómo reflejaba el diseño la identidad de Apple?** [Respuesta]
+- **¿Cómo reflejaba el diseño la identidad de Apple?** El sitio empezó a funcionar como una extensión directa del producto: si el hardware era simple y elegante, la web debía comunicarlo de la misma manera, sin ruido visual que contradijera esa promesa de diseño.
 
 ### 5. Otros Principios Identificados
-- **Principio:** [Descripción y ejemplo]
+- **Skeumorfismo:** aunque la portada era minimalista, muchas interfaces de la época (iOS, iTunes) usaban texturas realistas (cuero, papel, metal cepillado) para que lo digital se sintiera familiar — un contraste interesante con el minimalismo del sitio web en sí.
+- **El "póster digital":** cada página de producto funcionaba casi como un afiche: una imagen y una frase, replicando el lenguaje de las campañas publicitarias impresas de Apple.
 
 ## Conclusiones y Reflexiones
-> *"¿Qué aprendiste sobre el diseño de esta era? ¿Cómo se relaciona con las eras posteriores o anteriores?"*
+Esta era marca el momento en que Apple deja de "vender" en su homepage y empieza a "exhibir". El diseño se pone al servicio de un solo objetivo: que el producto sea la estrella indiscutida, sin distracciones. Es la base directa de la Era 5 (2020-presente): el scroll cinematográfico y la tipografía San Francisco no serían posibles sin esta etapa previa de reducción radical de elementos. En comparación con la Era 2, donde todavía convivían varias secciones y pestañas con peso visual similar, acá se ve un salto claro hacia la jerarquía absoluta de un solo elemento por pantalla.
 
 ## Referencias
-- [Enlace a Wayback Machine con la fecha exacta]
-- [Artículo o referencia adicional]
-- [Otros recursos]
-```
+- Wayback Machine, apple.com (2007, 2010, 2012) — buscar en https://web.archive.org/web/*/apple.com
+- Webflow Blog, "Homepage history: Apple.com"
+- History.com, "Steve Jobs debuts the iPhone"
+- CustomerThink, "Building an Online Presence: The 5 Ages of Apple.com"
