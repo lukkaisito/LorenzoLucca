@@ -1,22 +1,20 @@
 # Análisis de la Evolución de apple.com: La Era del Minimalismo
 
 ## Integrantes del Grupo
-- [Nombre 1]
-- [Nombre 2]
-- [Nombre 3]
-- [Nombre 4]
-
+- [Lorenzo Lucca]
+- [Zalazar Maia]
+  
 ## Período Analizado
 2007-2012
 
 ## Capturas de Pantalla
 | Año | Captura | Descripción |
 |-----|---------|-------------|
-| 2007 | ![2007](../imagenes/era-minimalismo-2007.png) | Rediseño coincidiendo con el lanzamiento del iPhone, fondo oscuro y protagonismo absoluto del producto |
-| 2010 | ![2010](../imagenes/era-minimalismo-2010.png) | Lanzamiento del iPad, la navegación queda relegada detrás de un video promocional |
-| 2012 | ![2012](../imagenes/era-minimalismo-2012.png) | Consolidación del "póster digital": una imagen, una frase, mínimo texto |
+| 2007 | ![2007](https://www.webdesignmuseum.org/uploaded/timeline/apple/apple-2007.jpg) | Rediseño coincidiendo con el lanzamiento del iPhone, fondo oscuro y protagonismo absoluto del producto |
+| 2010 | ![2010](https://www.webdesignmuseum.org/uploaded/fullscreen-others/2010/apple-2010-05.jpg) | Lanzamiento del iPad, la navegación queda relegada detrás de una imagen promocional |
+| 2012 | ![2012](https://www.webdesignmuseum.org/uploaded/timeline/apple/apple-2012.png) | Consolidación del "póster digital": una imagen, una frase, mínimo texto |
 
-*(Recordá reemplazar estas rutas por tus propias capturas sacadas de [Wayback Machine](https://archive.org/web/), buscando `apple.com` en 2007, 2010 y 2012.)*
+
 
 ## Contexto Histórico
 El 9 de enero de 2007, Steve Jobs presentó el iPhone en el Macworld de San Francisco, describiéndolo como un producto revolucionario. La campaña de lanzamiento fue notablemente austera para la época: sin celebridades, sin chistes ni fuegos artificiales, apenas el producto explicado por sí mismo, algo que en su momento resultaba innovador y hoy se volvió el estándar de cómo Apple comunica sus productos. Ese mismo criterio se trasladó a la web: el sitio adoptó un fondo oscuro que ponía todo el foco en el dispositivo, y la época también trajo el auge del diseño skeumórfico, con íconos que imitaban texturas y objetos reales para hacer más intuitiva la interfaz. Para 2010, con el lanzamiento del iPad, ese lenguaje visual ya estaba asentado: el patrón de dejar que el producto nuevo domine por completo la portada se repitió, empujando todo lo demás salvo el video promocional detrás de las pestañas de navegación.
